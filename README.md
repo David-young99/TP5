@@ -18,6 +18,8 @@ b) Longitud de onda: Los sensores SAR usualmente capturan en una sola banda, sin
 
 c) Polarización: Cuando se habla de ondas electromagnéticas, abarca tanto el campo eléctrico cómo el magnético, estos campos se mueven a ciertas direcciones específicas, en SAR se trabaja con campos eléctricos lineales, o sea, puede ser emitido en vertical o en horizontal:
 
+ <img src="https://github.com/David-young99/TP5/blob/main/a.jpg"></img>
+ 
 d) Rugosidad del terreno: La rugosidad del terreno juega un papel muy importante en la dispersión de la energía cuando colisiona contra la superficie. Por esta razón es un factor muy importante en la cantidad de energía que regresa al sensor.
 
 e) Densidad y orientación de la cobertura vegetal
