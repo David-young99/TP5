@@ -8,6 +8,9 @@ Por lo cual, las microondas son un tipo de radiación electromagnética, que se 
 Por lo cual, muchos de los sensores activos, que trabajan mediante microondas, deben proporcionar una fuente de radiación propia la cual ilumine los objetivos en el suelo. Una de las ventajas del espectro del microondas es que, debido a su larga longitud de onda, su radiación puede penetrar la nubosidad y la gran mayoría de las condiciones meteorológicas (Qihao, 2012). Independientemente del sensor que se utilice, ya sea pasivo o activo. Además de esta característica, también se encuentra en una ventana atmosférica, la cual es una región del espectro electromagnético en donde no se produce alguna absorción, por lo cual la energía que pasa por ventana no será atenuada en una gran medida. 
 </p>
 
+ <img src="https://github.com/David-young99/TP5/blob/6048aed410217c57cea4b495996608def113549d/fto_espectro1.jpg" alt="Espectro electromagnético, selección del espectro microondas"></img>
+ Fuente: Globedia, s.f.
+ 
 <h4>2. Retrodispersión  y constante dieléctrica</h4>
 <p>En los trabajos prácticos anteriores usábamos el concepto de “reflectancia” para referirnos a el reflejo de la luz solar en la superficie terrestre y todo lo que en ella alberga, y cómo un sensor pasivo puede diferenciar entre las distintas longitudes de ondas producto de este constante reflejo. En este caso hablamos de sensores activos, y como se mencionó previamente utiliza sus propias ondas que son “reflejadas” nuevamente hacia el sensor, este proceso y todo lo que conlleva para ser captado correctamente se conoce como “retrodispersión”, también conocido como Sección Transversal del Radar (RCS). 
 
@@ -47,6 +50,8 @@ Fuente: Meyer, 2021.
 Donde se aplica una mayor utilización de estas bandas, son en los sensores SAR, por ejemplo, al detectar la cobertura de vegetación, según el área de estudio y propiamente el estudio a realizar, se deben utilizar diferentes bandas. Si únicamente se quiere observar las copas de los árboles, se pueden utilizar las bandas X, si quiere estudiar de una mejor manera la biomasa, o propiamente la estructura de la vegetación se utilizan las bandas C y L, que tienen una mayor penetración. (Meyer, 2019).
 Se puede aplicar gran cantidad de aplicaciones, según la banda que se utilice, por ejemplo, con la banda Ku se puede estudiar la glaciología, en la cual se puede mapear grandes áreas que se encuentren cubiertas de nieve, como se mencionó anteriormente las bandas X, C y L se pueden utilizar para el estudio de agricultura, la banda L debido a su longitud de onda, también se puede utilizar para estudiar de una buena manera la humedad del suelo, así como áreas con cuerpos de agua, así como la gestión forestal. Y en gran medida la banda P, tiene una mayor penetración en suelos secos. (Villegas, 2019)
 </p>
+  <img src="https://github.com/David-young99/TP5/blob/6048aed410217c57cea4b495996608def113549d/Weyer.png" alt="Bandas RADAR"></img>
+ Fuente: Meyer, 2019. 
 
 <h4>4. Radar de Apertura Sintética (SAR)</h4>
 <p>El radar de apertura sintética SAR (por sus siglas en inglés Synthetic-Aperture Radar) es un método de recolección de datos por parte de los satélites, utilizando radar. Reiterando lo mismo que se mencionó al inicio, las ondas radar se envían a la superficie y el “rebote” o retrodispersión, son las que los sensores captan y miden las diferentes distancias de los objetos.
@@ -65,3 +70,9 @@ La dispersión de las superficies puede generar un rebote diferente de las ondas
 <h4>1. Inundaciones</h4>
 <img src="https://github.com/David-young99/TP5/blob/main/Diagrama%20en%20blanco.png"></img>
 <h4>2. Vegetación</h4>
+
+<h4>2. índice de Vegetación con Radar</h4>
+<img src="https://github.com/David-young99/TP5/blob/6048aed410217c57cea4b495996608def113549d/Blank%20diagram%20(2).jpeg"></img>
+
+
+
