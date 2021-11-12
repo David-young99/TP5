@@ -8,8 +8,8 @@ Por lo cual, las microondas son un tipo de radiación electromagnética, que se 
 Por ende, muchos de los sensores activos, que trabajan mediante microondas, deben proporcionar una fuente de radiación propia la cual ilumine los objetivos en el suelo. Una de las ventajas del espectro del microondas es que, debido a su larga longitud de onda, su radiación puede penetrar la nubosidad y la gran mayoría de las condiciones meteorológicas (Qihao, 2012). Independientemente del sensor que se utilice, ya sea pasivo o activo. Además de esta característica, también se encuentra en una ventana atmosférica, la cual es una región del espectro electromagnético en donde no se produce alguna absorción, por lo cual la energía que pasa por ventana no será atenuada en una gran medida. 
 </p>
 
- <img src="https://github.com/David-young99/TP5/blob/6048aed410217c57cea4b495996608def113549d/fto_espectro1.jpg" alt="Espectro electromagnético, selección del espectro microondas"></img>
- Fuente: Globedia, s.f.
+ <img src="https://github.com/David-young99/TP5/blob/6048aed410217c57cea4b495996608def113549d/fto_espectro1.jpg" alt="Espectro electromagnético, selección del espectro microondas"></img> 
+Fuente: Globedia, s.f.
  
 <h4>2. Retrodispersión  y constante dieléctrica</h4>
 <p>En los trabajos prácticos anteriores usábamos el concepto de “reflectancia” para referirnos a el reflejo de la luz solar en la superficie terrestre y todo lo que en ella alberga, y cómo un sensor pasivo puede diferenciar entre las distintas longitudes de ondas producto de este constante reflejo. En este caso hablamos de sensores activos, y como se mencionó previamente utiliza sus propias ondas que son “reflejadas” nuevamente hacia el sensor, este proceso y todo lo que conlleva para ser captado correctamente se conoce como “retrodispersión”, también conocido como Sección Transversal del Radar (RCS). 
