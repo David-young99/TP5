@@ -92,17 +92,17 @@ Map.addLayer(differenceVV_thresholded.updateMask(differenceVV_thresholded),{pale
 ```
 Aplicado este umbral separá las zonas de inundación del resto de la superficie, en otras palabras individualizará los cuerpos de agua de la zona de estudio, por lo que el resultado será una capa solamente con el criterio anterior. Esto permitiría clasificar las inundaciones de forma manual pero más rápido, utilizando únicamente SAR en GEE. 
 <img src="https://github.com/David-young99/TP5/blob/main/cn2.jpg"></img>
-<p>Fuente: Resultado del código de GEE de la región de Upala con el umbral aplicado para separa únicamente las inundaciones/p>
+<p>Fuente: Resultado del código de GEE de la región de Upala con el umbral aplicado para separa únicamente las inundaciones</p>
 <h1></h1>
 De igual forma, una de las principales diferencias entre el índice de vegetación con Radar (RVI) y la detección de inundaciones, es el uso diferente de las combinaciones de polarización, para el RVI se utilizan dos combinaciones de polarización VV y VH respectivamente, y para la detección de inundaciones VH. Inicialmente se puede deber a varios factores, el más fundamental es que para la creación del índice de vegetación se utiliza la siguiente expresión matemática: RVI=(VV/(VV+VH))0.5(4VH)/(VV+VH), donde se utiliza tanto la combinación vertical vertical (VV) y la vertical horizontal (VH) trabajando con ambos campos eléctricos lineales. Este RVI como lo menciona Saatchi (2019) se forma a partir de una relación entre la polarización cruzada como la potencial total, por lo cual utiliza ambos canales de polarización. Los valores de esta ecuación, en este caso se deben normalizar para una mejor interpretación, por lo cual se debe ejecutar una línea de código que tome los valores de los pixeles que se encuentran en dB, y convertirlos a valores lineales, que son los valores necesarios para una mejor interpretación de la retrodispersión del caso de estudio. Al normalizar dichos valores, se obtiene valores desde 0 a 1, en donde valores cercanos a 0 quieren decir que los niveles de retrodispersión son menores, por lo cual en esas zonas la cobertura vegetal es mínima, o totalmente nula, al obtener valores más cercanos al 1, quiere decir que hay una mayor cobertura vegetal sobre dichas áreas. Otro factor el que puede determinar el uso de las distintas combinaciones de polarización, es la disponibilidad de estas que brinden las imágenes sobre el caso de estudio.
 
 <img src="https://github.com/David-young99/TP5/blob/e2df9e3fbd426fa36aae3d7e65d369679e139a44/RVI.jpg"></img>
-<p>Fuente: Resultado del código de GEE obtenidos por RVI con diferente período/p>
+<p>Fuente: Resultado del código de GEE obtenidos por RVI con diferente período</p>
  
 Como se observa en las imágenes, ante los distintos periodos de estudio se observan variaciones de los valores del RVI en cada parcela, para poder visualizar, e interpretar dichas variaciones se realiza un gráfico de líneas, en el cual muestra esas tendencias o variaciones promedio del RVI a lo largo de un año de análisis, este gráfico puede ayudar significativamente entender y determinar las causas y factores que provocan diferentes niveles de retrodispersión en estas parcelas a lo largo de un período de estudio. Dicho gráfico al observarlo se puede mostrar un poco confuso, dado a que está graficando todos los polígonos del área de estudio, pero se puede graficar polígono por polígono para una mejor interpretación.
  
 <img src="https://github.com/David-young99/TP5/blob/d4e19e39409c3ce32f4601d5d6114f09d38172d7/ee-chart%20(5).png"></img>
-<p>Fuente: Gráfico con valores promedio de RVI de las distintas parcelas en un año de análisis. 
+<p>Fuente: Gráfico con valores promedio de RVI de las distintas parcelas en un año de análisis.</p> 
 
  
  
