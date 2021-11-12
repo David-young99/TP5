@@ -23,12 +23,14 @@ b) Longitud de onda: Los sensores SAR usualmente capturan en una sola banda, sin
 c) Polarización: Cuando se habla de ondas electromagnéticas, abarca tanto el campo eléctrico cómo el magnético, estos campos se mueven a ciertas direcciones específicas, en SAR se trabaja con campos eléctricos lineales, o sea, puede ser emitido en vertical o en horizontal:
 
  <img src="https://github.com/David-young99/TP5/blob/main/a.jpg" alt="Imagen de dos polarizaciones VV y VH"></img>
+ 
  Fuente: Flores-Anderson et.al, 2020.
  
 d) Rugosidad del terreno: La rugosidad del terreno juega un papel muy importante en la dispersión de la energía cuando colisiona contra la superficie. Por esta razón es un factor muy importante en la cantidad de energía que regresa al sensor.
 
 
  <img src="https://github.com/David-young99/TP5/blob/main/b.jpg"></img>
+ 
  Fuente: Elaboración propia
 
 e) Densidad y orientación de la cobertura vegetal
@@ -42,6 +44,7 @@ Es un valor numérico que nos indica la reflectividad y conductividad de una sup
 
  <img src="https://github.com/David-young99/TP5/blob/main/c.jpg"></img>
  Constante dieléctrica y penetración
+
 Fuente: Meyer, 2021.
 
 </p>
@@ -52,6 +55,7 @@ Donde se aplica una mayor utilización de estas bandas, son en los sensores SAR,
 Se puede aplicar gran cantidad de aplicaciones, según la banda que se utilice, por ejemplo, con la banda Ku se puede estudiar la glaciología, en la cual se puede mapear grandes áreas que se encuentren cubiertas de nieve, como se mencionó anteriormente las bandas X, C y L se pueden utilizar para el estudio de agricultura, la banda L debido a su longitud de onda, también se puede utilizar para estudiar de una buena manera la humedad del suelo, así como áreas con cuerpos de agua, así como la gestión forestal. Y en gran medida la banda P, tiene una mayor penetración en suelos secos. (Villegas, 2019)
 </p>
   <img src="https://github.com/David-young99/TP5/blob/6048aed410217c57cea4b495996608def113549d/Weyer.png" alt="Bandas RADAR"></img>
+ 
  Fuente: Meyer, 2019. 
 
 <h4>4. Radar de Apertura Sintética (SAR)</h4>
