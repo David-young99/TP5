@@ -19,8 +19,13 @@ b) Longitud de onda: Los sensores SAR usualmente capturan en una sola banda, sin
 c) Polarización: Cuando se habla de ondas electromagnéticas, abarca tanto el campo eléctrico cómo el magnético, estos campos se mueven a ciertas direcciones específicas, en SAR se trabaja con campos eléctricos lineales, o sea, puede ser emitido en vertical o en horizontal:
 
  <img src="https://github.com/David-young99/TP5/blob/main/a.jpg" alt="Imagen de dos polarizaciones VV y VH"></img>
+ Fuente: Flores-Anderson et.al, 2020.
  
 d) Rugosidad del terreno: La rugosidad del terreno juega un papel muy importante en la dispersión de la energía cuando colisiona contra la superficie. Por esta razón es un factor muy importante en la cantidad de energía que regresa al sensor.
+
+
+ <img src="https://github.com/David-young99/TP5/blob/main/b.jpg"></img>
+ Fuente: Elaboración propia
 
 e) Densidad y orientación de la cobertura vegetal
 
@@ -30,6 +35,10 @@ Similar al anterior, determinará el rebote de la onda según la forma en cómo 
 La constante dieléctrica
 
 Es un valor numérico que nos indica la reflectividad y conductividad de una superficie, si una superficie es poco conductora son conocidos como dieléctricos, estos cuando son impactados por una onda, absorberán una alta cantidad de energía de la onda, por lo que la onda de retorno contendrá mucho menos energía que la energía enviada. Este valor normalmente se expresa de 0 a 80, donde valores más bajos corresponden a, por ejemplo, superficies secas, por otra parte superficies con mayor contenido de humedad, tenderá a tener un valor de la constante dieléctrica mayor.
+
+ <img src="https://github.com/David-young99/TP5/blob/main/c.jpg"></img>
+ Constante dieléctrica y penetración
+Fuente: Meyer, 2021.
 
 </p>
 
