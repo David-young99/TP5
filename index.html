@@ -97,11 +97,11 @@ Por otra parte, el uso del filtro de Speckle, siendo este elemento un paso funda
 
 Además la aplicación de un umbral para poder separar las zonas de inundación, para esto se aplicó una fórmula, para este caso en este caso específico se utilizó el siguiente código:
 
-```
+<code>
 var Threshold_Up = 1.80;
 var differenceVV_thresholded = differenceVV.gt(Threshold_Up);
 Map.addLayer(differenceVV_thresholded.updateMask(differenceVV_thresholded),{palette:"#1e1fd6"},'flooded areas');
-```
+</code>
 Aplicado este umbral separá las zonas de inundación del resto de la superficie, en otras palabras individualizará los cuerpos de agua de la zona de estudio, por lo que el resultado será una capa solamente con el criterio anterior. Esto permitiría clasificar las inundaciones de forma manual pero más rápido, utilizando únicamente SAR en GEE. 
 <img src="https://github.com/David-young99/TP5/blob/main/cn2.jpg"></img>
 <p>Fuente: Resultado del código de GEE de la región de Upala con el umbral aplicado para separa únicamente las inundaciones/p>
