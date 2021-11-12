@@ -63,5 +63,5 @@ La dispersión de las superficies puede generar un rebote diferente de las ondas
 <h3>Flujos de trabajo</h3>
 
 <h4>1. Inundaciones</h4>
-
+<img src="https://github.com/David-young99/TP5/blob/main/Diagrama%20en%20blanco.png"></img>
 <h4>2. Vegetación</h4>
