@@ -9,7 +9,8 @@ Por ende, muchos de los sensores activos, que trabajan mediante microondas, debe
 </p>
 
  <img src="https://github.com/David-young99/TP5/blob/6048aed410217c57cea4b495996608def113549d/fto_espectro1.jpg" alt="Espectro electromagnético, selección del espectro microondas"></img> 
-Fuente: Globedia, s.f.
+ 
+ Fuente: Globedia, s.f.
  
 <h4>2. Retrodispersión  y constante dieléctrica</h4>
 <p>En los trabajos prácticos anteriores usábamos el concepto de “reflectancia” para referirnos a el reflejo de la luz solar en la superficie terrestre y todo lo que en ella alberga, y cómo un sensor pasivo puede diferenciar entre las distintas longitudes de ondas producto de este constante reflejo. En este caso hablamos de sensores activos, y como se mencionó previamente utiliza sus propias ondas que son “reflejadas” nuevamente hacia el sensor, este proceso y todo lo que conlleva para ser captado correctamente se conoce como “retrodispersión”, también conocido como Sección Transversal del Radar (RCS). 
