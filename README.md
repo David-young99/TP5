@@ -77,8 +77,8 @@ La dispersión de las superficies puede generar un rebote diferente de las ondas
 
 <h3>Conclusiones</h3>
 <img src="https://github.com/David-young99/TP5/blob/main/as.png"></img>
-<p>Fuente: Elaboración propia</p>
-<p>El antes y después del huracán Otto visto con SAR</p>
+<p>Fuente: Resultado del código de GEE de la región de Upala visto desde SAR en el antes y después del huracán Otto en el año 2016</p>
+
 
 Unas de las principales diferencias entre el índice de vegetación con Radar (RVI) y la detección de inundaciones, es el uso diferente de las combinaciones de polarización, para el RVI se utilizan dos combinaciones de polarización VV y VH respectivamente, y para la detección de inundaciones VH. Inicialmente se puede deber a varios factores, el más fundamental es que para la creación del índice de vegetación se utiliza la siguiente expresión matemática: RVI=(VV/(VV+VH))0.5(4VH)/(VV+VH), donde se utiliza tanto la combinación vertical vertical (VV) y la vertical horizontal (VH) trabajando con ambos campos eléctricos lineales. Este RVI como lo menciona () se forma a partir de una relación entre la polarización cruzada como la potencial total, por lo cual utiliza ambos canales de polarización. Los valores de esta ecuación, en este caso se deben normalizar para una mejor interpretación, por lo cual se debe ejecutar una línea de código que tome los valores de los pixeles que se encuentran en dB, y convertirlos a valores lineales, que son los valores necesarios para una mejor interpretación de la retrodispersión del caso de estudio. Al normalizar dichos valores, se obtiene valores desde 0 a 1, en donde valores cercanos a 0 quieren decir que los niveles de retrodispersión son menores, por lo cual en esas zonas la cobertura vegetal es mínima, o totalmente nula, al obtener valores más cercanos al 1, quiere decir que hay una mayor cobertura vegetal sobre dichas áreas. Otro factor el que puede determinar el uso de las distintas combinaciones de polarización, es la disponibilidad de estas que brinden las imágenes sobre el caso de estudio. 
 
