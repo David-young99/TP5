@@ -99,6 +99,8 @@ De igual forma, una de las principales diferencias entre el índice de vegetaci�
 <img src="https://github.com/David-young99/TP5/blob/e2df9e3fbd426fa36aae3d7e65d369679e139a44/RVI.jpg"></img>
 <p>Fuente: Resultado del código de GEE obtenidos por RVI con diferente período/p>
  
+ 
+ 
  <h3>Referencias</h3>
 Lucas, J. (2018). What Are Microwaves? Livescience.Com. https://www.livescience.com/50259-microwaves.html
 
