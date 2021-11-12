@@ -98,6 +98,20 @@ De igual forma, una de las principales diferencias entre el índice de vegetaci�
 
 <img src="https://github.com/David-young99/TP5/blob/e2df9e3fbd426fa36aae3d7e65d369679e139a44/RVI.jpg"></img>
 <p>Fuente: Resultado del código de GEE obtenidos por RVI con diferente período/p>
+ 
+ <h3>Referencias</h3>
+Lucas, J. (2018). What Are Microwaves? Livescience.Com. https://www.livescience.com/50259-microwaves.html
+
+Meyer, F. (2019) “Spaceborne Synthetic Aperture Radar – Principles, Data Access, and Basic Processing Techniques.” SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation. Eds. Flores, A., Herndon, K., Thapa, R., Cherrington, E. NASA. 2019. DOI: 10.25966/ez4f-mg98
+
+Ordóñez, J. L. (2012). Espectro electromagnético y espectro radioeléctrico. Manual formativo de ACTA, (62), 17-31.
+
+Qihao, W. (2012). An Introduction to Contemporary Remote Sensing. 1st ed. New York: McGraw-Hill Education. https://www.accessengineeringlibrary.com/content/book/9780071740111
+
+Saatchi, S. (2019) “SAR Methods for Mapping and Monitoring Forest Biomass.” SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation. Eds. Flores, A., Herndon, K., Thapa, R., Cherrington, E. NASA. DOI: 10.25966/hbm1-ej07
+
+Villegas, P. (2020). Características de las imágenes de radar de apertura sintética SAR. Agua y SIG. https://aguaysig.com/caracteristicas-de-las-imagenes-de-radar-de-apertura-sintetica-sar/
+
 
  
 
