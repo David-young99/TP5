@@ -69,7 +69,6 @@ La dispersión de las superficies puede generar un rebote diferente de las ondas
 
 <h4>1. Inundaciones</h4>
 <img src="https://github.com/David-young99/TP5/blob/main/Diagrama%20en%20blanco.png"></img>
-<h4>2. Vegetación</h4>
 
 <h4>2. índice de Vegetación con Radar</h4>
 <img src="https://github.com/David-young99/TP5/blob/6048aed410217c57cea4b495996608def113549d/Blank%20diagram%20(2).jpeg"></img>
