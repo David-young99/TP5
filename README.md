@@ -1,8 +1,4 @@
-<style>
- p{
- text-align: justify;
- }
-</style>
+<link rel="stylesheet" href="style.css"/>
 
 <h1>Informe Final del Trabajo Práctico <strong>#5</strong></h1>
 
