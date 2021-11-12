@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css"/>
+<link rel="stylesheet" href="../css/style.css">
 
 <h1>Informe Final del Trabajo Práctico <strong>#5</strong></h1>
 
