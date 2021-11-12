@@ -1,4 +1,4 @@
-<h1>Informe Final del Trabajo Práctico #5</h1>
+<h1>Informe Final del Trabajo Práctico <strong>#5</strong></h1>
 
 <h3>Sección teórica</h3>
 
