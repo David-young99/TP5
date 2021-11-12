@@ -99,6 +99,11 @@ De igual forma, una de las principales diferencias entre el índice de vegetaci�
 <img src="https://github.com/David-young99/TP5/blob/e2df9e3fbd426fa36aae3d7e65d369679e139a44/RVI.jpg"></img>
 <p>Fuente: Resultado del código de GEE obtenidos por RVI con diferente período/p>
  
+Como se observa en las imágenes, ante los distintos periodos de estudio se observan variaciones de los valores del RVI en cada parcela, para poder visualizar, e interpretar dichas variaciones se realiza un gráfico de líneas, en el cual muestra esas tendencias o variaciones promedio del RVI a lo largo de un año de análisis, este gráfico puede ayudar significativamente entender y determinar las causas y factores que provocan diferentes niveles de retrodispersión en estas parcelas a lo largo de un período de estudio. Dicho gráfico al observarlo se puede mostrar un poco confuso, dado a que está graficando todos los polígonos del área de estudio, pero se puede graficar polígono por polígono para una mejor interpretación.
+ 
+<img src="https://github.com/David-young99/TP5/blob/d4e19e39409c3ce32f4601d5d6114f09d38172d7/ee-chart%20(5).png"></img>
+<p>Fuente: Gráfico con valores promedio de RVI de las distintas parcelas en un año de análisis. 
+
  
  
  <h3>Referencias</h3>
