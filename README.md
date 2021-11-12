@@ -3,13 +3,51 @@
 <h3>Sección teórica</h3>
 
 <h4>1. Microondas</h4>
-<p></p>
+<p>inicialmente de las ondas electromagnéticas como del espectro electromagnético. Como menciona Ordoñez (2012) las ondas electromagnéticas son una propagación simultánea tanto de los campos eléctrico y magnético debido o provocados por una carga eléctrica en movimiento. Estos campos son importantes para poder comprender cómo se propaga la energía en el espacio.  De este concepto sobresale, la radiación electromagnética que es la energía saliente que se forma de ondas electromagnéticas, esta energía puede tener origen natural como artificial. Dicha radiación electromagnética se puede producir en diferentes frecuencias, es decir las ondas pueden tener diferentes números de ciclos a lo largo de una unidad de tiempo, estas frecuencias o conjunto de frecuencias son el espectro electromagnético.
+Por lo cual, las microondas son un tipo de radiación electromagnética, que se clasifican como tal, en el espectro electromagnético. Debido a su tipo de radiación electromagnética, tiene una longitud de onda, y una frecuencia distinta, estas van desde 1mm hasta 1m, y desde 1 Ghz hasta valores cercanos a los 300 Ghz, respectivamente. (Lucas, 2018). Estos valores pueden variar en diferentes fuentes, debido a la fuente de quien realice la clasificación, por lo cual se pueden encontrar valores un poco distintos. Estas longitudes de onda son bastante superiores con respecto a las del espectro visible como a las del infrarrojo, dichas ondas al ser tan largas, hace que la energía disponible en ellas se realmente pequeña, por lo cual para muchos sistemas pasivos necesitan un campo de visión lo bastante amplio o grande para así poder detectar la suficiente energía para poder grabar u obtener dicha señal enviada, esto conlleva que muchos de estos sensores pasivos, o sensores microondas pasivos tenga una baja resolución espacial (Qihao, 2012).
+Por lo cual, muchos de los sensores activos, que trabajan mediante microondas, deben proporcionar una fuente de radiación propia la cual ilumine los objetivos en el suelo. Una de las ventajas del espectro del microondas es que, debido a su larga longitud de onda, su radiación puede penetrar la nubosidad y la gran mayoría de las condiciones meteorológicas (Qihao, 2012). Independientemente del sensor que se utilice, ya sea pasivo o activo. Además de esta característica, también se encuentra en una ventana atmosférica, la cual es una región del espectro electromagnético en donde no se produce alguna absorción, por lo cual la energía que pasa por ventana no será atenuada en una gran medida. 
+</p>
 
 <h4>2. Retrodispersión  y constante dieléctrica</h4>
-<p></p>
+<p>En los trabajos prácticos anteriores usábamos el concepto de “reflectancia” para referirnos a el reflejo de la luz solar en la superficie terrestre y todo lo que en ella alberga, y cómo un sensor pasivo puede diferenciar entre las distintas longitudes de ondas producto de este constante reflejo. En este caso hablamos de sensores activos, y como se mencionó previamente utiliza sus propias ondas que son “reflejadas” nuevamente hacia el sensor, este proceso y todo lo que conlleva para ser captado correctamente se conoce como “retrodispersión”, también conocido como Sección Transversal del Radar (RCS). 
+
+La retrodispersión del radar depende de la cantidad de la cantidad de energía que regrese posterior al “rebote” en la superficie, y esta, depende de otros factores como:
+ a) ángulo de incidencia: Cambios en el ángulo harán que llegue menor o mayor cantidad de energía de retorno al sensor, evidentemente, si se cambia el ángulo de incidencia en la imagen final el resultado será muy diferente.
+
+b) Longitud de onda: Los sensores SAR usualmente capturan en una sola banda, sin embargo algunos varían la forma en cómo emiten esa señal, y según esto, esa onda puede penetrar más o menos la superficie, por ejemplo omitir la vegetación. 
+
+c) Polarización: Cuando se habla de ondas electromagnéticas, abarca tanto el campo eléctrico cómo el magnético, estos campos se mueven a ciertas direcciones específicas, en SAR se trabaja con campos eléctricos lineales, o sea, puede ser emitido en vertical o en horizontal:
+
+d) Rugosidad del terreno: La rugosidad del terreno juega un papel muy importante en la dispersión de la energía cuando colisiona contra la superficie. Por esta razón es un factor muy importante en la cantidad de energía que regresa al sensor.
+
+e) Densidad y orientación de la cobertura vegetal
+
+Similar al anterior, determinará el rebote de la onda según la forma en cómo se encuentre la vegetación sobre la superficie.
+
+
+La constante dieléctrica
+
+Es un valor numérico que nos indica la reflectividad y conductividad de una superficie, si una superficie es poco conductora son conocidos como dieléctricos, estos cuando son impactados por una onda, absorberán una alta cantidad de energía de la onda, por lo que la onda de retorno contendrá mucho menos energía que la energía enviada. Este valor normalmente se expresa de 0 a 80, donde valores más bajos corresponden a, por ejemplo, superficies secas, por otra parte superficies con mayor contenido de humedad, tenderá a tener un valor de la constante dieléctrica mayor.
+
+</p>
 
 <h4>3. Bandas en radar para aplicaciones ambientales</h4>
-<p></p>
+<p>La percepción remota por radar es un instrumento que genera su propia señal electromagnética dado a que es un sensor activo, de tal forma que transmite un pulso de microondas para la observación propiamente de la superficie de la tierra, al ser un sensor activo permite observar la superficie terrestre tanto de día como de noche. Estos instrumentos o herramientas de radar, puede tener diferentes bandas de longitudes de ondas, tales como Ka y Ku, X-, C-, S-, L- y la banda P, estas se fueron definidas por el Institute of Electrical and Electronics Engineers (IEEE). (Meyer, 2019). Estas bandas se encuentran a lo largo del espectro de microondas, pero con distintas frecuencias, por lo cual cada una puede utilizar de una manera específica para un determinado estudio. Al aumentar la longitud de onda que puede emitir el sensor, puede haber una mayor o menor penetración, por ejemplo, la banda L tiene una mayor longitud de onda, por lo cual tiene una menor frecuencia, lo que hace que tenga una mayor penetración a diferencia de las bandas C o X, que cuenta con una menor longitud de onda, y una mayor frecuencia.
+Donde se aplica una mayor utilización de estas bandas, son en los sensores SAR, por ejemplo, al detectar la cobertura de vegetación, según el área de estudio y propiamente el estudio a realizar, se deben utilizar diferentes bandas. Si únicamente se quiere observar las copas de los árboles, se pueden utilizar las bandas X, si quiere estudiar de una mejor manera la biomasa, o propiamente la estructura de la vegetación se utilizan las bandas C y L, que tienen una mayor penetración. (Meyer, 2019).
+Se puede aplicar gran cantidad de aplicaciones, según la banda que se utilice, por ejemplo, con la banda Ku se puede estudiar la glaciología, en la cual se puede mapear grandes áreas que se encuentren cubiertas de nieve, como se mencionó anteriormente las bandas X, C y L se pueden utilizar para el estudio de agricultura, la banda L debido a su longitud de onda, también se puede utilizar para estudiar de una buena manera la humedad del suelo, así como áreas con cuerpos de agua, así como la gestión forestal. Y en gran medida la banda P, tiene una mayor penetración en suelos secos. (Villegas, 2019)
+</p>
 
 <h4>4. Radar de Apertura Sintética (SAR)</h4>
-<p></p>
+<p>El radar de apertura sintética SAR (por sus siglas en inglés Synthetic-Aperture Radar) es un método de recolección de datos por parte de los satélites, utilizando radar. Reiterando lo mismo que se mencionó al inicio, las ondas radar se envían a la superficie y el “rebote” o retrodispersión, son las que los sensores captan y miden las diferentes distancias de los objetos.
+El SAR utiliza una antena que tiene relación con la resolución espacial de la imagen final, por esta razón, antenas más grandes generarán resoluciones más grandes, sin embargo para una resolución de 10 m se ocuparía una antena de 4250 m, lo que lo convierte en algo poco práctico para ser un satélite. Los ingenieros simulan este tamaño de antena con diferentes procesos, ocupando al final, una antena de poco tamaño y obteniendo una mejor resolución.
+
+Mecanismos de polarización y dispersión:
+
+Los mecanismo de polarización se refiere a la forma en dirección, en cómo es emitida recibida la señal electromagnética, por ejemplo, si es emitida en vertical y recibida en horizontal se denomina VH, si es emitida y recibida en horizontal, se denomina HH, y así sucesivamente. Estas polarizaciones se usan para diferentes objetivos de dispersión, dependiendo de qué queremos estudiar se puede usar uno u otro.
+La dispersión de las superficies puede generar un rebote diferente de las ondas, por ejemplo la superficie rugosa, una cobertura vegetal determinada y una mancha urbana. En estos casos el tipo de polarización que se use es más o menos sensible para cada caso, por ejemplo la polarización VV es más sensible para superficies rugosas, o la dispersión VH o HV es más sensible para la dispersión de volumen, cuando la señal colisiona y rebota constantemente dentro del follaje de la vegetación. 
+</p>
+
+
+
+<h3>Flujos de trabajo</h3>
+
