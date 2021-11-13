@@ -124,6 +124,8 @@ Saatchi, S. (2019) “SAR Methods for Mapping and Monitoring Forest Biomass.” 
 
 Villegas, P. (2020). Características de las imágenes de radar de apertura sintética SAR. Agua y SIG. https://aguaysig.com/caracteristicas-de-las-imagenes-de-radar-de-apertura-sintetica-sar/
 
+Herndon. K, Meyer. F, Flores. A, Cherrinton. E, Kucera. L. (2010). What is Synthetic Aperture Radar. National Aeronautics and Space Administration. Recuperado de: https://earthdata.nasa.gov/learn/backgrounders/what-is-sar
+
 
  
 
